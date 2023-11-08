@@ -1,7 +1,7 @@
 {
   "index": "主页",
-  "another": "Another Page",
-  "doc": "Advanced (A Folder)",
+  "problems": "常见问题",
+  "doc": "使用文档",
   "about": {
     "title": "About",
     "type": "page"
