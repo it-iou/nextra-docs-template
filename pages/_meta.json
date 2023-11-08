@@ -2,14 +2,19 @@
   "index": "主页",
   "problems": "常见问题",
   "doc": "使用文档",
+  "d1": "模型说明",
+  "d2": "用户手册",
+  "d3": "设提示词",
+  "rules": "使用守则",
+  "agreement": "用户协议",
   "about": {
-    "title": "About",
+    "title": "关于",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "AIChat ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://ai.itluo.com",
     "newWindow": true
   }
 }
